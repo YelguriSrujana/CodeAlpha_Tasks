@@ -1,0 +1,6 @@
+===== STOCK PORTFOLIO SUMMARY =====
+
+AAPL | Quantity: 3 | Price: $180 | Value: $540
+TSLA | Quantity: 5 | Price: $250 | Value: $1250
+
+Total Investment Value: $1790
